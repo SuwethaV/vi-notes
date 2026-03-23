@@ -1,0 +1,6 @@
+/*
+Split the terminal into three
+Navigate to folders backend , src,ml_engine in each terminal respectively.
+Run the command "npm run dev" in src and backend terminals respectively.
+In the ml_engine terminal create a virtual environment using the command "./.venv/Scripts/Activate.ps1"
+View the output in the browser */
